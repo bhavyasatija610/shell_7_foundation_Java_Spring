@@ -51,6 +51,10 @@ Developers will work on features or tasks within their feature branches. When re
 
 ## GitHub Actions Workflow Implementation:
 
+
+
+JAK
+
 The development team will outline a GitHub Actions workflow triggered by PRs on the main/master branch. This workflow will automate essential tasks such as building, testing, Deploying and ensuring code quality. This workflow will also incorporate a continuous Integration & continuous deployment (CD) process. This process will also facilitate the deployment of the Docker container to an Azure App Service.
 
 ## Local Testing of Azure Web App:
